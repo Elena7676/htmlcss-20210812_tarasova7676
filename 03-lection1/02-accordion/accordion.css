@@ -1,4 +1,6 @@
 
+/* Стилизация аккордеона */
+
 .accordion__item {
     border: 1px solid #ACB5BD;
     box-sizing: border-box;
